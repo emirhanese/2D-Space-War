@@ -290,7 +290,7 @@ already = False
 already2 = False
 
 
-# You can do these things, just believe in yourself! You'll improve yourself as you want.
+
 def red_special_shot():
     for event in pygame.event.get():
         if event.type == pygame.USEREVENT:
